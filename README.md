@@ -23,8 +23,6 @@ The integration provides a computational framework for AI with potential for ont
 | **3→4** | Causal → Activity | Pragmatic context interpreter |
 | **4→5** | Activity → Collective | Cultural resonance in global ontology |
 
-## 🚀 Quick Start
-
 ```bash
 git clone https://github.com/your-username/PsyResonance-Core.git
 cd PsyResonance-Core
